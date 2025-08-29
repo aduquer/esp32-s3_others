@@ -1,0 +1,2 @@
+source C:/Users/hardw/Documents/FIRMWARE/ESP32-S3/CDC_ACM_VCP/cdc_acm_vcp/build/bootloader/gdbinit/symbols
+source C:/Users/hardw/Documents/FIRMWARE/ESP32-S3/CDC_ACM_VCP/cdc_acm_vcp/build/bootloader/gdbinit/connect
